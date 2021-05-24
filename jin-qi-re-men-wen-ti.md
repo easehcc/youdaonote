@@ -11,10 +11,9 @@ description: 我们会根据用户反馈更新此页面的热门问题信息
 
 ### 使用相关
 
-* 出现冲突的笔记 
-* 有道云笔记新版
-* PDF转Word功能
-* 有道云笔记小程序
+* [出现冲突的笔记 ](yi-nan-wen-ti/bi-ji-chong-tu.md)
+* [PDF转Word功能](jin-jie-gong-neng/pdf-zhuan-word.md)
+* [有道云笔记小程序](jin-jie-gong-neng/xiao-cheng-xu-shi-yong.md)
 
 
 
