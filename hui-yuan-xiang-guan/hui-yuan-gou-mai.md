@@ -4,8 +4,7 @@
 
 ### 方法一：
 
-推荐使用电脑浏览器，打开云笔记官网https://note.youdao.com/charge/setMeal.html在会员页面购买升级即可。  
-![](https://n2b7japth1.feishu.cn/space/api/box/stream/download/asynccode/?code=MTI2ZTNlZGJiNjgzZDZlYjhhMjg4Mzg2MjQ4ZWQ0NDlfeXM2Z3VWamN0WVJGczVWd2xteHNUaGt5R25OTXJBVDdfVG9rZW46Ym94Y25RM2JOOU5lZkkwV0FKbXIyczh1QWhlXzE2MTgyODE3NDk6MTYxODI4NTM0OV9WNA)
+推荐使用电脑浏览器，打开云笔记官网https://note.youdao.com/charge/setMeal.html在会员页面购买升级即可。
 
 ### 方法二：
 
