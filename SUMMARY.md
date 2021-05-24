@@ -38,7 +38,7 @@
 
 * [同步问题](yi-nan-wen-ti/tong-bu-wen-ti.md)
 * [帐户密码问题](yi-nan-wen-ti/zhang-hu-mi-ma-wen-ti.md)
-* [笔记冲突](yi-nan-wen-ti/bi-ji-chong-tu.md)
+* [冲突笔记](yi-nan-wen-ti/bi-ji-chong-tu.md)
 
 ---
 
