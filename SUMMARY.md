@@ -22,6 +22,7 @@
 * [笔记分享](ji-ben-gong-neng/bi-ji-fen-xiang.md)
 * [脑图功能](ji-ben-gong-neng/nao-tu-gong-neng.md)
 * [文件及文件夹上传](ji-ben-gong-neng/word-ji-wen-jian-jia-dao-ru.md)
+* [笔记模板](ji-ben-gong-neng/bi-ji-mo-ban.md)
 
 ## 进阶功能
 
