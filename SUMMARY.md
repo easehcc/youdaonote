@@ -1,7 +1,7 @@
 # Table of contents
 
 * [🏠关于](README.md)
-* [🔥近期热门问题](jin-qi-re-men-wen-ti.md)
+* [🔥近期热门](jin-qi-re-men-wen-ti.md)
 
 ## 快速开始
 
