@@ -15,7 +15,7 @@ description: 记录，从这里开始~
 
 **空白文档**——[点击这里](bi-ji-bian-ji.md)查看详细说明 
 
-**Markdown**——[点击这里](markdown-bi-ji/)查看详细说明
+**Markdown**——[点击这里](../jin-jie-gong-neng/markdown-bi-ji/)查看详细说明
 
 **脑图**——[点击这里](nao-tu-gong-neng.md)查看详细说明
 

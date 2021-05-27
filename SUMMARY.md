@@ -15,10 +15,6 @@
 * [笔记编辑](ji-ben-gong-neng/bi-ji-bian-ji.md)
 * [内容收藏](ji-ben-gong-neng/shou-ji.md)
 * [笔记整理](ji-ben-gong-neng/nei-rong-zheng-li.md)
-* [Markdown笔记](ji-ben-gong-neng/markdown-bi-ji/README.md)
-  * [Tips for 有道云笔记中的 Markdown](ji-ben-gong-neng/markdown-bi-ji/tips-for-you-dao-yun-bi-ji-zhong-de-markdown.md)
-  * [【简明版】有道云笔记Markdown指南](ji-ben-gong-neng/markdown-bi-ji/jian-ming-ban-you-dao-yun-bi-ji-markdown-zhi-nan.md)
-  * [【进阶版】有道云笔记Markdown指南](ji-ben-gong-neng/markdown-bi-ji/jin-jie-ban-you-dao-yun-bi-ji-markdown-zhi-nan.md)
 * [笔记分享](ji-ben-gong-neng/bi-ji-fen-xiang.md)
 * [脑图功能](ji-ben-gong-neng/nao-tu-gong-neng.md)
 * [文件及文件夹上传](ji-ben-gong-neng/word-ji-wen-jian-jia-dao-ru.md)
@@ -28,6 +24,10 @@
 
 * [PDF转Word功能](jin-jie-gong-neng/pdf-zhuan-word.md)
 * [微信小程序使用](jin-jie-gong-neng/xiao-cheng-xu-shi-yong.md)
+* [Markdown笔记](jin-jie-gong-neng/markdown-bi-ji/README.md)
+  * [Tips for 有道云笔记中的 Markdown](jin-jie-gong-neng/markdown-bi-ji/tips-for-you-dao-yun-bi-ji-zhong-de-markdown.md)
+  * [【简明版】有道云笔记Markdown指南](jin-jie-gong-neng/markdown-bi-ji/jian-ming-ban-you-dao-yun-bi-ji-markdown-zhi-nan.md)
+  * [【进阶版】有道云笔记Markdown指南](jin-jie-gong-neng/markdown-bi-ji/jin-jie-ban-you-dao-yun-bi-ji-markdown-zhi-nan.md)
 
 ## 会员相关
 
