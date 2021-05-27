@@ -28,7 +28,6 @@
 
 * [PDF转Word功能](jin-jie-gong-neng/pdf-zhuan-word.md)
 * [微信小程序使用](jin-jie-gong-neng/xiao-cheng-xu-shi-yong.md)
-* [笔记导入导出](jin-jie-gong-neng/bi-ji-dao-ru-dao-chu.md)
 
 ## 会员相关
 
