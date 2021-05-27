@@ -21,11 +21,11 @@ description: 记录，从这里开始~
 
 **从模板新建**——[点击这里](bi-ji-mo-ban.md)查看详细说明
 
-**上传文件**——
+**上传文件**——[点击这里](word-ji-wen-jian-jia-dao-ru.md)查看详细说明
 
-**新建文件夹**——
+**新建文件夹**——新建新的文件夹层级
 
-**上传文件夹**——Word及文件夹导入
+**上传文件夹**——[点击这里](word-ji-wen-jian-jia-dao-ru.md#shang-chuan-wen-jian-jia)查看详细说明
 
 
 
