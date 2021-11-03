@@ -10,7 +10,7 @@ description: 阅读本文，将了解如何上手云笔记，从客户端的下�
 
 **iOS端**
 
-打开App Store，搜索有道云笔记，选择获取。也可使用iOS设备直接[点击这里](https://apps.apple.com/cn/app/有道云笔记-扫描王版/id450748070)下载
+打开App Store，搜索有道云笔记，选择获取。也可使用iOS设备直接[点击这里](https://apps.apple.com/cn/app/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0-%E6%89%AB%E6%8F%8F%E7%8E%8B%E7%89%88/id450748070)下载
 
 **Android端**
 
@@ -24,9 +24,9 @@ description: 阅读本文，将了解如何上手云笔记，从客户端的下�
 
 在App Store搜索【有道云笔记】下载，或者[点击这里](http://download.ydstatic.com/notewebsite/downloads/YoudaoNote.dmg)下载有道云笔记安装包
 
-另云笔记推出了新的云笔记电脑客户端beta版，新版本加入了全新的网页版编辑器，并调整了UI界面，使用过程更加易用美观。可以通过下方链接下载使用：  
-  
-Mac客户端：[点击下载](https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0Beta%E7%89%88.dmg)  
+另云笔记推出了新的云笔记电脑客户端beta版，新版本加入了全新的网页版编辑器，并调整了UI界面，使用过程更加易用美观。可以通过下方链接下载使用：\
+\
+Mac客户端：[点击下载](https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0Beta%E7%89%88.dmg)\
 Windows客户端：[点击下载](https://artifact.lx.netease.com/download/ynote-electron/%E6%9C%89%E9%81%93%E4%BA%91%E7%AC%94%E8%AE%B0Beta%E7%89%88.exe)
 
 ### 二、如何注册云笔记帐户？
@@ -45,11 +45,9 @@ Windows客户端：[点击下载](https://artifact.lx.netease.com/download/ynote
 
 电脑客户端：![](https://n2b7japth1.feishu.cn/space/api/box/stream/download/asynccode/?code=YTkyZjA4Yzk0ZGViMjJhYWZjOTRiOGI3NDdmOWE1NzZfOU50Y0dRMGJYdmVtZDRHblpMRkNJNE1oWHJzUWtqYVNfVG9rZW46Ym94Y25rRlZCSHdteUNQcXVPRkFOZ0h5cEFmXzE2MTQ3NTQ1Njg6MTYxNDc1ODE2OF9WNA)
 
-![](.gitbook/assets/image%20%284%29.png)
+![](<.gitbook/assets/image (4).png>)
 
 手机端：​
 
-![](.gitbook/assets/img_a5bd8696c401-1.jpeg)
-
-
+![](.gitbook/assets/img\_a5bd8696c401-1.jpeg)
 

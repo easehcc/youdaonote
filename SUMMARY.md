@@ -5,7 +5,7 @@
 
 ## 快速开始
 
----
+***
 
 * [有道云笔记安装、注册和登录](you-dao-yun-bi-ji-an-zhuang-zhu-ce-he-deng-lu.md)
 
@@ -28,6 +28,7 @@
   * [Tips for 有道云笔记中的 Markdown](jin-jie-gong-neng/markdown-bi-ji/tips-for-you-dao-yun-bi-ji-zhong-de-markdown.md)
   * [【简明版】有道云笔记Markdown指南](jin-jie-gong-neng/markdown-bi-ji/jian-ming-ban-you-dao-yun-bi-ji-markdown-zhi-nan.md)
   * [【进阶版】有道云笔记Markdown指南](jin-jie-gong-neng/markdown-bi-ji/jin-jie-ban-you-dao-yun-bi-ji-markdown-zhi-nan.md)
+* [有道云笔记快捷键](jin-jie-gong-neng/you-dao-yun-bi-ji-kuai-jie-jian.md)
 
 ## 会员相关
 
@@ -39,7 +40,7 @@
 * [同步问题](yi-nan-wen-ti/tong-bu-wen-ti.md)
 * [冲突笔记](yi-nan-wen-ti/bi-ji-chong-tu.md)
 
----
+***
 
 * [⤴️客户端更新日志](geng-xin-ri-zhi/README.md)
   * [Windows客户端更新日志](geng-xin-ri-zhi/windows-ke-hu-duan-geng-xin-ri-zhi.md)
@@ -48,4 +49,3 @@
   * [iOS客户端更新日志](geng-xin-ri-zhi/ios-ke-hu-duan-geng-xin-ri-zhi.md)
   * [小程序更新日志](geng-xin-ri-zhi/xiao-cheng-xu-geng-xin-ri-zhi.md)
 * [返回网页版](https://note.youdao.com/web/)
-
